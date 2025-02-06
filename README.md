@@ -5,7 +5,7 @@ A simple client for managing email lists and sending emails through your email s
 ## Installation
 
 ```bash
-npm install mailavocado
+npm install @mailavocado/client
 ```
 
 ## Usage
